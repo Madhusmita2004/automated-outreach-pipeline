@@ -207,7 +207,7 @@ Fields:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/automated-outreach-pipeline.git
+git clone https://github.com/Madhusmita2004/automated-outreach-pipeline.git
 ```
 
 ### Move to Project Directory
