@@ -243,7 +243,6 @@ mvn clean install
 ```bash
 mvn spring-boot:run
 ```
-
 ---
 
 ## Swagger Documentation
@@ -253,14 +252,6 @@ After starting the application:
 ```text
 http://localhost:8080/swagger-ui.html
 ```
-
-or
-
-```text
-http://localhost:8080/swagger-ui/index.html
-```
-
----
 
 ## Logging
 
@@ -272,16 +263,7 @@ The application logs:
 - Email sending status
 - Pipeline summary
 
-Example:
 
-```text
-PIPELINE COMPLETE
-Companies : 3
-Contacts  : 6
-Emails    : 6
-```
-
----
 
 ## Future Improvements
 
@@ -298,7 +280,7 @@ Emails    : 6
 
 ## Author
 
-Chandrakanta Pradhan
+MadhuSmita panda
 
 Java Full Stack Developer
 
